@@ -13,3 +13,4 @@ def distance(strand_a, strand_b):
                 num += 1
         return dis
     
+    
